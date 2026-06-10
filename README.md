@@ -238,8 +238,3 @@ Always respect copyright laws and the Terms of Service of the platforms from whi
 
 If you found this guide useful, consider giving the repository a **Star ⭐** to help others discover it.
 
----
-
-<p align="center">
-Made with ❤️ by <strong>Bryan Vargas Madrigal</strong>
-</p>
